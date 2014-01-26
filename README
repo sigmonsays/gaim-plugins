@@ -1,0 +1,59 @@
+
+gaim-plugin-alias-reply
+-----------------------------------------
+A gaim plugin I wrote in a day (For MR Dondo)
+
+It auto-replies when they say your configurable "name" with the senders alias.
+
+gaim-plugin-reverse
+-----------------------------------------
+Reverses what ever you send
+<p>
+
+Hello<br>
+olleH<br>
+
+<p>Interesting!
+
+gaim-plugin-aim-status
+-----------------------------------------
+A gaim plugin I wrote in a day to put my aim status on my web page.
+
+gaim-plugin-hax0r
+-----------------------------------------
+A simple GAIM perl script to convert your outgoing text to h4x0r.
+It only converts vowels and a few other letters, it's quite easy
+to add letters into the script as it only uses a hash.
+
+gaim-plugin-random-idle
+-----------------------------------------
+Randomly changes your idle every couple seconds (even though it sends the command every second =) )
+
+gaim-plugin-idle
+-----------------------------------------
+A simple gaim script to set your idle time.
+
+gaim-plugin-mysql-log
+-----------------------------------------
+Licensed under the "copy-left" GPL see http://www.gnu.org/licenses/gpl.txt
+
+Plugin that logs your gaim converstations to sql
+
+This plugin provides a centralized location for all your logs to be
+viewed. Have fun.
+
+gaim-plugin-mysql-log/mysql-log
+-----------------------------------------
+Licensed under the "copy-left" GPL see http://www.gnu.org/licenses/gpl.txt
+
+Plugin that logs your gaim converstations to sql
+
+This plugin provides a centralized location for all your logs to be
+viewed. Have fun.
+
+gaim-plugin-scramble
+-----------------------------------------
+When loaded, every message you send, the words are scrambled around.
+Usually makes it like your drunk, or just completly stupid, but what
+is really the difference.
+
