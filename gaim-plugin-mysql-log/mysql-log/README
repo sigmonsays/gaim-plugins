@@ -1,0 +1,6 @@
+Licensed under the "copy-left" GPL see http://www.gnu.org/licenses/gpl.txt
+
+Plugin that logs your gaim converstations to sql
+
+This plugin provides a centralized location for all your logs to be
+viewed. Have fun.

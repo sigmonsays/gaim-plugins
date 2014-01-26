@@ -1,0 +1,3 @@
+A simple GAIM perl script to convert your outgoing text to h4x0r.
+It only converts vowels and a few other letters, it's quite easy
+to add letters into the script as it only uses a hash.
